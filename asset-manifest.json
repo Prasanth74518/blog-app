@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Prasanth74518/blog-app/static/css/main.d1dbfd08.css",
+    "main.js": "/Prasanth74518/blog-app/static/js/main.aeaf9945.js",
+    "index.html": "/Prasanth74518/blog-app/index.html",
+    "main.d1dbfd08.css.map": "/Prasanth74518/blog-app/static/css/main.d1dbfd08.css.map",
+    "main.aeaf9945.js.map": "/Prasanth74518/blog-app/static/js/main.aeaf9945.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d1dbfd08.css",
+    "static/js/main.aeaf9945.js"
+  ]
+}
