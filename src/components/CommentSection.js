@@ -41,7 +41,7 @@ const Comment = ({ comment, postId }) => {
     <div 
       className={`
         border-l-4 
-        ${comment.isNew ? 'border-green-500 bg-green-50 dark:bg-green-900/10' : 'border-blue-500'} 
+        ${comment.isNew ? 'border-blue-500 bg-blue-50 dark:bg-blue-900/10' : 'border-blue-500'} 
         pl-4 mb-4 rounded-lg bg-white dark:bg-gray-800 p-4 
         transition-all duration-300 ease-in-out
       `}
